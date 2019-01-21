@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\bin\Release\IAP.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\bin\Release\IAP.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\bin\Release\IAP.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Release\IAP.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Release\IAP.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Release\IAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Release\IAP.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Release\IAP.pdb

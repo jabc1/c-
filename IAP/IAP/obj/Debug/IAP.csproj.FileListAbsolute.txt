@@ -1,0 +1,27 @@
+c:\users\administrator\documents\visual studio 2013\Projects\IAP\IAP\bin\Debug\IAP.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\bin\Debug\IAP.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\bin\Debug\IAP.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Debug\IAP.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Debug\IAP.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Debug\IAP.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Debug\IAP.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\IAP\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+D:\c#\IAP\IAP\bin\Debug\IAP.exe.config
+D:\c#\IAP\IAP\obj\Debug\IAP.exe
+D:\c#\IAP\IAP\obj\Debug\IAP.pdb
+D:\c#\IAP\IAP\bin\Debug\IAP.exe
+D:\c#\IAP\IAP\bin\Debug\IAP.pdb
+D:\c#\IAP\IAP\obj\Debug\IAP.Form1.resources
+D:\c#\IAP\IAP\obj\Debug\IAP.Properties.Resources.resources
+D:\c#\IAP\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+D:\c#\IAP\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
+G:\c#\IAP\IAP\bin\Debug\IAP.exe.config
+G:\c#\IAP\IAP\obj\Debug\IAP.exe
+G:\c#\IAP\IAP\obj\Debug\IAP.pdb
+G:\c#\IAP\IAP\bin\Debug\IAP.exe
+G:\c#\IAP\IAP\bin\Debug\IAP.pdb
+G:\c#\IAP\IAP\obj\Debug\IAP.csprojResolveAssemblyReference.cache
+G:\c#\IAP\IAP\obj\Debug\IAP.Form1.resources
+G:\c#\IAP\IAP\obj\Debug\IAP.Properties.Resources.resources
+G:\c#\IAP\IAP\obj\Debug\IAP.csproj.GenerateResource.Cache
